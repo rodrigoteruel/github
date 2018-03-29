@@ -15,3 +15,6 @@ comandos git
 
 - git pull origin master
 
+- git log
+
+- git checkout fd6cb176297acca4dbc69d15d6b7f78a2463482f
